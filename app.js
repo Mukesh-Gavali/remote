@@ -1,1 +1,1 @@
-console.log("mai hu na")
+console.log("mai hu na or mai hi hu na")
